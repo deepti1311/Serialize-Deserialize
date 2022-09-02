@@ -1,0 +1,3 @@
+Serializing ...
+i.e., writing object
+& creating an .ser file to store data.
